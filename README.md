@@ -50,8 +50,3 @@ cd ngo-landing-page
 open index.html
 # or simply double-click the HTML file
 ```
-
----
-username/ngo-landing-page/issues) · [Request Feature](https://github.com/yourusername/ngo-landing-page/issues)
-
-</div>
